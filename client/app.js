@@ -13,6 +13,6 @@ angular.module('levelsApp', [
       })
       .state('about', {
         url: '/about',
-        templateUrl: 'views/about.html'
+        templateUrl: 'views/aboutView.html'
       })
   }])
